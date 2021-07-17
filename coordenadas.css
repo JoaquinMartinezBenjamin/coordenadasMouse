@@ -1,0 +1,19 @@
+body{
+  margin: 7% 7%;
+  width: 60%;
+
+}
+#click{
+	background:blue;
+
+	height: 100px;
+	width: 150%;
+
+	}
+
+  button{
+    margin-top: 50px;
+    background-color: aqua;
+    width:  100px;
+   height:  40px;
+  }
